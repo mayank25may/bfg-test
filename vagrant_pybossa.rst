@@ -1,5 +1,5 @@
 ======================================
-***REMOVED***
+
 ======================================
 
 `Vagrant`_ is an open source solution that allows you to create and configure 
