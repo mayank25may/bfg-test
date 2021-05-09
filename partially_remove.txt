@@ -63,26 +63,26 @@ disallow =
 
 [dev]
 
-***REMOVED***
+nsqdaddr = 127.0.0.1:4150
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
+; admin host
+admin_http_addr = 127.0.0.1
+admin_http_port = 8088
 
-***REMOVED***
+; app host
 app_host = shopsend.ngrok.io
 
 ; SMTP host for SMTP API
 smtp_host = 0.0.0.0
 smtp_port = 2525
 
-***REMOVED***
+; app root url 
 app_url = https://shopsend.ngrok.io/
 
 api_url = https://shopsend.ngrok.io/api/v1/
 
-***REMOVED***
-***REMOVED***
+; cdn url
+cdn_url = https://cdn.shopsend.io
 
 http_port = 8085
 
@@ -90,33 +90,7 @@ data_source = postgres://shopsend:shopsend@localhost/shopsend?sslmode=disable
 smtp_data_source = postgres://shopsend:shopsend@localhost/shopsend?sslmode=disable
 
 
-***REMOVED***
-***REMOVED***
+shopify_api_key = 90883cc1d33946aea4fc13af346a17ae
+shopify_api_secret = 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
 
 
-[prod]
-
-***REMOVED***
-
-***REMOVED***
-***REMOVED***
-***REMOVED***
-
-***REMOVED***
-***REMOVED***
-
-***REMOVED***
-***REMOVED***
-
-***REMOVED***
-
-***REMOVED***
-***REMOVED***
-
-***REMOVED***
-
-***REMOVED***
-smtp_***REMOVED***
-
-***REMOVED***
-***REMOVED***
