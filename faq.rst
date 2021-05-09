@@ -9,7 +9,7 @@ Frequently Asked Questions
 
 Users
 =====
-Do I need to create an account to participate in the project?
+
 -------------------------------------------------------------
 It depends. The owners of the projects can disable anonymous contributions
 (usually due to privacy issues with the data), forcing you to create an account
